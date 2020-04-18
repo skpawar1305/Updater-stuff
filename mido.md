@@ -1,21 +1,72 @@
-^ancient
-ancient-v3.0.1
+AncientOS v3.5
 
-Changelog:
-- Fixed Advanced Reboot FC
-- Fixed Edit longshot
-- Fixed Themes FC
-- Update dimens themes
-- Update AncientWallpaperZone.apk
+Source Changelogs:
+- April security patch (r33)
+- Update AncientUI
+- Update VolumeDialog
+- Add moar Ancient Themes
+- Switch to ThemePicker
+- Switch long screenshot to asus
+- More permissions
+- Checkout apns from lineage
+- Added Faceunlock
+- Added TouchGestures
+- Added Primary Color Picker
+- Added navigation mode settings
+- Added hide pill in full gestures nav mode
+- Added device name and codename to about
+- Added build date in about
+- Added show full proc information
+- Added dash charging
+- Added switch for battery led
+- Added hide notch support
+- Added force fullscreen
+- Added Styles R notification
+- Added Some panel from R
+- Added carrier label
+- Added config to use base rounded corner radius for window animation
+- Some changes audioservice
+- Improvement swipe to screenshot
+- Optimized bootanimation 1080p
+- Updated OP ScreenRecorder v2.3.0
+- Added partial / full screenshot tiles
+- Added reboot tiles
+- Added incall vibration
+- Added music tiles
+- Added Oxygen dismiss all button
+- Improvement DataSwitch tiles
+- Added clock, date, font styles in lockscreen
+- QS blur improvement
+- Some sepolicy update
+- Disable google wall
+- More
 
-Device:
-- We're Official Now
-- Fix some incall mic issue's with headphones
-- Increase image cropping size
-- shorten wait time to optimize shutdown time
-- Update GPS, QMI, IMS, Radio, Graphics, CNR, DPM and Time Services blobs. Thanks @Rafiester
-- Reduce battery drain overall ( Wi-Fi + 4G/LTE Network )
-- Set Zram disk size to 1GB
-- Disable HotwordService
-- Fix phone and messages app not showing
-- lot of UI and Performance improvements
+Device Changelogs:
+- Enforcing now
+- Some rendering improvements
+- Better call voice quality
+- Added flinger velocities
+- Some Tweaks For Better Ram Management
+- Enable manual network search
+- Added some snap camera overlays
+- Allow all apps to use smart replies
+- Update all blobs from LA.UM.8.6.r1-04000-89xx.0
+- Added Google AR Support
+- Fixed Reading And Night Mode
+- Update stock blobs from V11.0.2.0.NCFMIXM
+- Allow 120fps video recording ( may work )
+- Enable some snap overlays from RRO
+- Fix Internal Audio
+- Improve internet speed
+- Added FPS Info tile
+- Using Coral April Fingerprint
+- Reduce jitter and Make UI more smooth
+- Some fixes for Cast to work
+- Enable Dirac audio effect
+- Disable mobile data always active
+- Enable QPower and Deep Sleep at the same time
+- Enable memory optimizations
+- Fix lag while screen recording
+- Fix Flicker issue in lockscreen
+- Enable status bar burn-in protection
+- and many more there as well...
