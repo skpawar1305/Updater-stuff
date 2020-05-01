@@ -1,15 +1,16 @@
 {
   "error": false,
-  "id": "be87c1fe724bee3a9f9da5261bbdb18e06e4a7b68fc248a0640665bd72788c2a",
-  "filename": "AncientOS-CIVILIZATION-v3.0.1-fajita-PRIMEVAL-20200407-0524.zip",
-  "datetime": 1585546603,
-  "version": "v3.0.1",
-  "size": 1331483847,
-  "url": "https://sourceforge.net/projects/ancientrom/files/OnePlus_6T/AncientOS-CIVILIZATION-v3.0.1-fajita-PRIMEVAL-20200407-0524.zip/download",
-  "filehash": "fa9773e6af4e5f07e08760d2cb270802",
+  "id": "26a4029b2a7f427fda7bf7ca3258950ba5f6ccbc093f59bc713ad26c7c64b9e4",
+  "filename": "AncientOS-CIVILIZATION-v3.5-fajita-PRIMEVAL-20200501-0900-GApps.zip",
+  "datetime": 1588323570,
+  "version": "v3.5",
+  "size": 1319824136,
+  "url": "https://sourceforge.net/projects/ancientrom/files/OnePlus_6T/AncientOS-CIVILIZATION-v3.5-fajita-PRIMEVAL-20200501-0900-GApps.zip/download",
+  "filehash": "c29565235856f590959b73fb9a6b0297",
   "website_url": "https://sourceforge.net/projects/ancientrom/files/",
   "news_url": "https://t.me/ancientrom",
+  "donate_url": "https://www.paypal.me/UmadeviS",
   "maintainer": "AshutoshSundresh",
   "maintainer_url": "https://github.com/AshutoshSundresh",
-  "forum_url": "https://t.me/AshutoshSundresh"
+  "forum_url": "https://forum.xda-developers.com/oneplus-6t/development/rom-ancientrom-civilization-v3-0-1-t4076877"
 }
