@@ -1,13 +1,13 @@
-^ancient ancient-v3.0.1
+AncientOS v3.5
 
-Changelog:
+Source Changelogs:
+- Add option to show disabled data
+- Add option to hide lockscreen statusbar
 
-Fixed Advanced Reboot FC
-Fixed Edit longshot
-Fixed Themes FC
-Update dimens themes
-Update AncientWallpaperZone.apk
-Device:
-
-We're Official Now
-Improve Camera HALs
+Device Changelogs:
+- Switch to ClearVisionKernel
+- Introduce OnePlus DeviceSettings to adjust vibration settings, display calibration and customize alert slider configuration
+- Add Google Camera MOD
+- Show fod circle below pattern/pin view
+- Completely remove Face Unlock
+- Setup OTA Updater
