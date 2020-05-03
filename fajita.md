@@ -1,13 +1,14 @@
 AncientOS v3.5
 
 Source Changelogs:
-- Add option to show disabled data
-- Add option to hide lockscreen statusbar
+- Add Lockscreen Visualizer
 
 Device Changelogs:
-- Switch to ClearVisionKernel
-- Introduce OnePlus DeviceSettings to adjust vibration settings, display calibration and customize alert slider configuration
-- Add Google Camera MOD
-- Show fod circle below pattern/pin view
-- Completely remove Face Unlock
-- Setup OTA Updater
+- Add new features to ClearVisionKernel:
+- Default blu_schedutil governor
+- Support for Boeffla wakelock blocker
+- Support for KLapse 5.0
+- Optimize kgsl memory
+- Simplify touchboost check and process
+- Optimize zram
+- Latest security patches from OOS 10.3.3
