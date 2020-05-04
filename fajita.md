@@ -1,14 +1,9 @@
 AncientOS v3.5
 
 Source Changelogs:
-- Add Lockscreen Visualizer
-
-Device Changelogs:
-- Add new features to ClearVisionKernel:
-- Default blu_schedutil governor
-- Support for Boeffla wakelock blocker
-- Support for KLapse 5.0
-- Optimize kgsl memory
-- Simplify touchboost check and process
-- Optimize zram
-- Latest security patches from OOS 10.3.3
+- Add scrambled PIN
+- Add quick unlock
+- Move aosp gestures from under system to AncientSettings
+- Move IMEI from About Phone to Sim Status
+- Add adaptive playback
+- Allow you to automatically copy logs to deldog when an app crashes
