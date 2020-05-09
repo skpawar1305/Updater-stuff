@@ -1,16 +1,16 @@
 {
-   "error": false.
+   "error": false,
    "id": "b98b6258ef80bdc917a0f0274bffe192e178088f4d865f4dcc82db84f1706fff",
    "filename": "AncientOS-CIVILIZATION-v3.5-Plate2-PRIMEVAL-20200503-1150-GApps.zip",
    "datetime": 1588506628,
-   "version" : "v3.5"
+   "version" : "v3.5",
    "size": 1148411111
    "url" : "https://sourceforge.net/projects/ancientrom/files/Plate2/AncientOS-CIVILIZATION-v3.5-Plate2-PRIMEVAL-20200503-1150-GApps.zip/download"
    "filehash": "295828e350c97f4dd53b408518b254a7",
    "website_url": "https://sourceforge.net/projects/ancientrom/files/",
    "news_url": "https://t.me/ancientrom",
    "donate_url": "paypal.me/keneankit",
-   "maintainer": "ANKIT KENE"
+   "maintainer": "ANKIT KENE",
    "maintainer_url": "https://t.me/ankitkene",
    "forum_url": "https://t.me/ancientrom"
    
