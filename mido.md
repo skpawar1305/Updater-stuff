@@ -1,72 +1,63 @@
-AncientOS v3.5
+AncientOS v3.7
 
 Source Changelogs:
-- April security patch (r33)
-- Update AncientUI
-- Update VolumeDialog
-- Add moar Ancient Themes
-- Switch to ThemePicker
-- Switch long screenshot to asus
-- More permissions
-- Checkout apns from lineage
-- Added Faceunlock
-- Added TouchGestures
-- Added Primary Color Picker
-- Added navigation mode settings
-- Added hide pill in full gestures nav mode
-- Added device name and codename to about
-- Added build date in about
-- Added show full proc information
-- Added dash charging
-- Added switch for battery led
-- Added hide notch support
-- Added force fullscreen
-- Added Styles R notification
-- Added Some panel from R
-- Added carrier label
-- Added config to use base rounded corner radius for window animation
-- Some changes audioservice
-- Improvement swipe to screenshot
-- Optimized bootanimation 1080p
-- Updated OP ScreenRecorder v2.3.0
-- Added partial / full screenshot tiles
-- Added reboot tiles
-- Added incall vibration
-- Added music tiles
-- Added Oxygen dismiss all button
-- Improvement DataSwitch tiles
-- Added clock, date, font styles in lockscreen
-- QS blur improvement
-- Some sepolicy update
-- Disable google wall
-- More
+• May security patch (r35)
+• Back default center clock
+• Update Settings
+• Update and add new few themes
+• Remove faceunlock
+• Add Analog Clock in header
+• Add smartpixel
+• Add few tiles
+• Add data disable indicator icon
+• Add visualizer
+• Add AppErrorDialog to dogbin
+• Add adaptive playback
+• Add hide statusbar in LS
+• Add more charging symbols
+• Add extended audio panel
+• Add kill notification guts
+• Add disable pin entry after success unlock
+• Add lockscreen quick unlock
+• Add disable/enable navbar
+• Add scramble pin layout
+• Add force fullscreen aspec ratio
+• Add clock lockscreen and date style from bootleg
+• Add lockscreen date fonts
+• Add lockscreen clock fonts size and date font size
+• Add LS owner info fonts and size options
+• Add animate keyguard when charging
+• Add adb over network
+• Add naruto header
+• Add toogle disable SIM
+• Fixed charging watt info in some devices
+• Fixed incall vibration
+• R notification tooggleable
+• QS header data usage
+• Improve carrier label
+• Some change in fod
+• Update few sepolicy address
+• Update few permissions
+• Update few hals display
+• Update new bootanimation
+• Update new default wallpaper
+• More, also more bug
 
 Device Changelogs:
-- Enforcing now
-- Some rendering improvements
-- Better call voice quality
-- Added flinger velocities
-- Some Tweaks For Better Ram Management
-- Enable manual network search
-- Added some snap camera overlays
-- Allow all apps to use smart replies
-- Update all blobs from LA.UM.8.6.r1-04000-89xx.0
-- Added Google AR Support
-- Fixed Reading And Night Mode
-- Update stock blobs from V11.0.2.0.NCFMIXM
-- Allow 120fps video recording ( may work )
-- Enable some snap overlays from RRO
-- Fix Internal Audio
-- Improve internet speed
-- Added FPS Info tile
-- Using Coral April Fingerprint
-- Reduce jitter and Make UI more smooth
-- Some fixes for Cast to work
-- Enable Dirac audio effect
-- Disable mobile data always active
-- Enable QPower and Deep Sleep at the same time
-- Enable memory optimizations
-- Fix lag while screen recording
-- Fix Flicker issue in lockscreen
-- Enable status bar burn-in protection
-- and many more there as well...
+• Enable support for Pocket mode
+• QPower and Deep Sleep at the same time
+• Add overlays for SystemInfo
+• Fixed Smart charging issue 
+• update Power Profile from ysl
+• Adapt the exact values for lockscreen charging info
+• XiaomiParts: Add Speaker Gain & Spectrum Tile
+• XiaomiParts: Fix USB Fastcharge
+• XiaomiParts: Add FPS info & Digital-style icon
+• XiaomiParts: Add Ambient Display Gestures
+• Use vulkan as default renderer
+• Fix dual sim devices
+• Disable perfd prop for now
+• Let's really fix the flicker issue this time
+• Use 8 icons in statusbar now
+• Revert back to stock fp
+some optimizations and performance boot as well...
