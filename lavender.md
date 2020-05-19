@@ -1,13 +1,12 @@
 Device Changelogs :
- - Bump Kernel to AncientMegaZord HMP
- - Upstream Linux 4.4.219
- - Compiled With Proton Clang 11.0.0
- - Added FPS Info Overlay
+ - Ancient Kernel
+ - Upstream Linux 4.4.223
+ - Compiled With Clang 11.0.1
  - Updated Coral FP Build
  - Updated Thermal Bloobs
  - Updated overlay
  - Address more denial
+ - Update blobs from LA.UM.8.2.r1-06500-sdm660.0
  - Adjust better statusbar padding
- - Adjust keylayout
- - Disable signal inflation
- - Disable fingerprint gesture
+ - Fixed Smart charging issue
+ - Fix dual sim devices
