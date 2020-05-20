@@ -1,85 +1,67 @@
-AncientOS v3.5
+AncientOS v3.7
 
 Source Changelogs:
-- April security patch (r33)
-- Update AncientUI
-- Update VolumeDialog
-- Add moar Ancient Themes
-- Switch to ThemePicker
-- Switch long screenshot to asus
-- More permissions
-- Checkout apns from lineage
-- Added Faceunlock
-- Added TouchGestures
-- Added Primary Color Picker
-- Added navigation mode settings
-- Added hide pill in full gestures nav mode
-- Added device name and codename to about
-- Added build date in about
-- Added show full proc information
-- Added dash charging
-- Added switch for battery led
-- Added hide notch support
-- Added force fullscreen
-- Added Styles R notification
-- Added Some panel from R
-- Added carrier label
-- Added config to use base rounded corner radius for window animation
-- Some changes audioservice
-- Improvement swipe to screenshot
-- Optimized bootanimation 1080p
-- Updated OP ScreenRecorder v2.3.0
-- Added partial / full screenshot tiles
-- Added reboot tiles
-- Added incall vibration
-- Added music tiles
-- Added Oxygen dismiss all button
-- Improvement DataSwitch tiles
-- Added clock, date, font styles in lockscreen
-- QS blur improvement
-- Some sepolicy update
-- Disable google wall
-- More
+
+• May security patch (r35)
+• Back default center clock
+• Update Settings
+• Update and add new few themes
+• Remove faceunlock
+• Add Analog Clock in header
+• Add smartpixel
+• Add few tiles
+• Add data disable indicator icon
+• Add visualizer
+• Add AppErrorDialog to dogbin
+• Add adaptive playback
+• Add hide statusbar in LS
+• Add more charging symbols
+• Add extended audio panel
+• Add kill notification guts
+• Add disable pin entry after success unlock
+• Add lockscreen quick unlock
+• Add disable/enable navbar
+• Add scramble pin layout
+• Add force fullscreen aspec ratio
+• Add clock lockscreen and date style from bootleg
+• Add lockscreen date fonts
+• Add lockscreen clock fonts size and date font size
+• Add LS owner info fonts and size options
+• Add animate keyguard when charging
+• Add adb over network
+• Add naruto header
+• Add toogle disable SIM
+• Fixed charging watt info in some devices
+• Fixed incall vibration
+• R notification tooggleable
+• QS header data usage
+• Improve carrier label
+• Some change in fod
+• Update few sepolicy address
+• Update few permissions
+• Update few hals display
+• Update new bootanimation
+• Update new default wallpaper
+• More, also more bug
 
 Device Changelogs:
-- Fix Wifi issues
-- Fix display wakeup 
-- Add back hostapd configs
-- Improved Battery
-- Use 4GB dalvik-heap config
-- Force enable mobile network settings v2
-- Enable adaptive brightness by default & Keep bluetooth off
-- Enable 1.1 DataConnection HAL
-- Enable IWLAN assisted mode
-- Update Overlay Config 
-- Update Audio Configs
-- Update Dexpreopt flags
-- Update CarrierConfig overlay
-- Update QC RIL service from LA.UM.8.6.2.r1-06600-89xx.0
-- Update CNE from LA.UM.8.6.2.r1-06600-89xx.0
-- Update DPM from LA.UM.8.6.2.r1-06600-89xx.0
-- Update Radio from LA.UM.8.6.2.r1-06600-89xx.0
-- Update Modem from LA.UM.8.6.2.r1-06600-89xx.0
-- Update QMI from LA.UM.8.6.2.r1-06600-89xx.0
-- Update Time Service from LA.UM.8.6.2.r1-06600-89xx.0
-- Update power-off alarm blobs from LA.UM.8.6.2.r1-06600-89xx.0
-- Update perf stack from LA.UM.8.6.2.r1-06600-89xx.0
-- Update postprocessing from LA.UM.8.6.2.r1-06600-89xx.0
-- Update GPS stack from LA.UM.8.6.2.r1-06600-89xx.0
-- Update graphics and media from LA.UM.8.6.2.r1-06600-89xx.0
-- Update Update Peripheral manager from LA.UM.8.6.2.r1-06600-89xx.0
-- Update Wi-Fi Display blobs from LA.UM.8.6.2.r1-06600-89xx.0
-- Update Widevine from LA.UM.8.6.2.r1-06600-89xx.0
-- Update DRM/TEE blobs from LA.UM.8.6.2.r1-06600-89xx.0
-- Update QTI bluetooth stack from LA.UM.8.6.2.r1-06600-89xx.0
-- Improve Stability on UI and System
-- Improve UI/UX Experience
-- AR now supported 
-- Update Graphics (SDM) blobs from LA.UM.8.6.r1-04000-89xx.0
-- Add More Kcal Preset on XiaomiParts
-- Shipped with Qwerty Kernel Turbo Final V2
-- Drop dpmservices
-- Fix MultiUser Force Close
-- Fix Volume Call Slider
-- Added MiuiCamera
-- Many more Minor changes
+
+• Initial 4.9 Kernel
+• Upstreamed Kernel to 4.9.223
+• Fixed Bluetooth Mic
+• Fixed Third Party Apps Mic Issue
+• Fixed Camera Flash light for Third Party Apps
+• Fixed Smart Charging
+• Fixed FM
+• Update qti priv-permission whitelist from  LA.UM.8.6.2.r1-06600-89xx.0
+• Update qti_whitelist from LA.UM.8.6.2.r1-06600-89xx.0
+• Update CNE from LA.UM.8.6.2.r1-07100-89xx.0
+• Update DPM from LA.UM.8.6.2.r1-07100-89xx.0
+• Update Radio from LA.UM.8.6.2.r1-07100-89xx.0
+• Update GPS stack from LA.UM.8.6.2.r1-07100-89xx.0
+• Update graphics and media from from LA.UM.8.6.2.r1-07100-89xx.0
+• Update Peripheral manager from LA.UM.8.6.2.r1-07100-89xx.0
+• Update Wi-Fi Display blobs from LA.UM.8.6.2.r1-07100-89xx.0
+• Using FThermal felixfw16 by Default
+• Update Zram Configuration
+• Update rootdir from CAF
