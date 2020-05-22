@@ -10,3 +10,6 @@ Device Changelogs :
  - Adjust better statusbar padding
  - Fixed Smart charging issue
  - Fix dual sim devices
+ - Fix mic issue random user
+ - Fix video instagram
+ - Fix dimen land header panel
