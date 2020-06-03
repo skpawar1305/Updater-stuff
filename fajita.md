@@ -1,11 +1,8 @@
 AncientOS v3.7
 
-- Fixed Lockscreen Visualizer not turning off (Removed Lava Lamp for the moment)
-- Simplify Gaming Mode to a tile
-- Fixed AncientSettings LockScreen customization minimum values (Fixes AncientSettings crash when using particular values)
-- Import better display calibrations
-- Completely rebase ClearVisionKernel (Performance should be improved)
-- Remove Pixel Live Wallpapers and Google Camera (Can be installed by the user. Let us keep it simple)
-- Import Telephony overlays (Should fix RIL for many carriers)
-- Add many new AncientUI Overlays
-- Address Watchdog Display crash (Should fix Android Auto)
+- OTA over-rides TWRP and Magisk!
+
+- Completely rewrite FOD implementation (Faster and much much lesser flickering now)
+- Upstream ClearVisionKernel
+- Fix all APN problems (Mobile data working on my end now)
+- Completely rewrite Android Auto fix (I can't test, if there are still problems, send logs)
