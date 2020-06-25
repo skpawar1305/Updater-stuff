@@ -1,3 +1,4 @@
 Device Changelogs :
-- Upstream kernel to 4.9.223
-- Fixed night light issues 
+- Changed kernel to DoomKernel based on StrixKernel
+- Upstream kernel to 4.9.228
+- Added FaceUnlock
