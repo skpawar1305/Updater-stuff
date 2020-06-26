@@ -1,4 +1,6 @@
-Ancient 3.7
+Ancient 3.8
 
 Device Changelog:
-- Changed to Miui Vendor and LOS fod
+- Prebuilt AncientParts
+- Added FaceUnlock
+- Latest iMMensity upstream
