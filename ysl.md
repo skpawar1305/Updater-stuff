@@ -46,22 +46,12 @@ Source Changelogs:
 
 Device Changelogs:
 
-• Initial 4.9 Kernel
-• Upstreamed Kernel to 4.9.223
-• Fixed Bluetooth Mic
-• Fixed Third Party Apps Mic Issue
-• Fixed Camera Flash light for Third Party Apps
-• Fixed Smart Charging
-• Fixed FM
-• Update qti priv-permission whitelist from  LA.UM.8.6.2.r1-06600-89xx.0
-• Update qti_whitelist from LA.UM.8.6.2.r1-06600-89xx.0
-• Update CNE from LA.UM.8.6.2.r1-07100-89xx.0
-• Update DPM from LA.UM.8.6.2.r1-07100-89xx.0
-• Update Radio from LA.UM.8.6.2.r1-07100-89xx.0
-• Update GPS stack from LA.UM.8.6.2.r1-07100-89xx.0
-• Update graphics and media from from LA.UM.8.6.2.r1-07100-89xx.0
-• Update Peripheral manager from LA.UM.8.6.2.r1-07100-89xx.0
-• Update Wi-Fi Display blobs from LA.UM.8.6.2.r1-07100-89xx.0
-• Using FThermal felixfw16 by Default
-• Update Zram Configuration
-• Update rootdir from CAF
+• Fixed Smart Charging and Charging issue
+• Upstreamed kernel to 4.9.226
+• Use OpenGL as default Renderer 
+• Optimized Performance
+• Update Graphics OpenGL blobs to v454
+• Update Graphics Vulkan blobs to v1.1.128
+• Updated and Imported QC Ril Service, CNE, DPM, Radio, QMI, GPS Stack, Bluetooth Stack, Perf Stack, WIFI Display blobs, Latency blobs, SCVE blobs,  IO Prefetcher blobs,  Listen blobs,  Soter & ESE-Powermanager from LA.UM.8.6.2.r1-07600-89xx.0
+• Performance Improvements
+• Addressed Sepolicy Denials
