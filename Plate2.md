@@ -1,47 +1,6 @@
-ANCIENT v3.7
-Source Changelogs: 
-• May security patch (r35) 
-• Back default center clock 
-• Update Settings 
-• Update and add new few themes 
-• Remove faceunlock 
-• Add Analog Clock in header
-• Add smartpixel • Add few tiles 
-• Add data disable indicator icon
-• Add visualizer 
-• Add AppErrorDialog to dogbin 
-• Add adaptive playback 
-• Add hide statusbar in LS 
-• Add more charging symbols 
-• Add extended audio panel 
-• Add kill notification guts 
-• Add disable pin entry after success unlock 
-• Add lockscreen quick unlock 
-• Add disable/enable navbar 
-• Add scramble pin layout 
-• Add force fullscreen aspec ratio 
-• Add clock lockscreen and date style from bootleg 
-• Add lockscreen date fonts 
-• Add lockscreen clock fonts size and date font size 
-• Add LS owner info fonts and size options 
-• Add animate keyguard when charging 
-• Add adb over network 
-• Add naruto header 
-• Add toogle disable SIM 
-• Fixed charging watt info in some devices 
-• Fixed incall vibration
-• R notification tooggleable
-• QS header data usage 
-• Improve carrier label 
-• Some change in fod 
-• Update few sepolicy address
-• Update few permissions
-• Update few hals display 
-• Update new bootanimation
-• Update new default wallpaper 
-• More, also more bug
+AncientOS 3.8 | Primeval | Koshiki | 24 June 2020 Source CL : • June security patch (r37) • Intro Weebo Versions • Intro dashboard ancient • Update WallpaperZone • Update Bootanimation Thanks to @R4J47 • Change Gallery2 to QPGallery. Thanks to @WSTxda • Proper fix android auto • Alert slider • Fix systemui crash after applying non srgb img wallpaper • Fix freeform windows • Add gaming mode • Add sound picker for vanilla • Add sensor block per packages • Add pocket lock • Add wakelock blocker • Add alarm blocker • Add headsup snooze function • Add headsup timeout options • Add less boring headsup options • Add force expanded notification • Add FP detection in pocked mode • Add ability to show daily/monthly data usage • Add lockscreen charging animation • Add few charging animation • Add lockscreen weather • Add statusbar weather • Add QS weather • Add QS footer text • Add FOD icon picker • Add FOD Recognizing animation • Add simple dual statusbar row from zenX • Add dt2s, applock, hide and some change in launcher • Add seLinux changes • Add batery meter from Dot-OS • Add and update Some Ancient Style themes, shape, and more fonts • Add POSP Volume panel (accessible from Dashboard) thanks to POSP Team • Some change and improve source Support
 
 Device Changelogs:
-FIREKERNELS UPDATED
-ADDED OTA UPDATER
+KERNELS CHANGED
+ADDED FACELOCK
 More Improvements
