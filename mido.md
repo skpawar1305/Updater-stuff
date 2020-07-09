@@ -1,7 +1,7 @@
 AncientOS v3.8
 
 Source Changelogs:
-• June security patch (r37)
+• July security patch (r40)
 • Intro Weebo Versions
 • Intro dashboard ancient
 • Update WallpaperZone
@@ -40,74 +40,24 @@ Source Changelogs:
 • Some change and improve source
 
 Device Changelogs:
-• Whole device tree has been rebased.
-• Device Treee Upgraded to 4.9.228 Perf Kernel
-• XiaomiParts: Fix YellowFlash Light
-• XiaomiParts: Fix Simple Brightness Torch
-• XiaomiParts: Explicitly Set values when CPU Boost is Disable
-• XiaomiParts: add new Cool Icons for XiaomiParts
-• XiaomiParts: Add GPU and CPU Boost QS Tiles
-• XiaomiParts: Fix Parallax Hub Crash for other Kernel
-• XiaomiParts: Camera Flash Yellow Light Intensity Controller
-• XiaomiParts: Add CPU Boost profile
-• XiaomiParts: Add GPU Boost Controler
-• XiaomiParts: TouchBoost Improvements
-• XiaomiParts: Add TouchBoost toggles
-• XiaomiParts: USB Fastcharge Improvement
-• XiaomiParts: Add Ultra Battery to Spectrum
-• XiaomiParts: Add Audio High Performance mode toggle
-• XiaomiParts: Add MSM Thermal Control
-• XiaomiParts: Add LKM Profiles
-• XiaomiParts: Add TCP Congestion Algorithm
-• XiaomiParts: add Charging LED Blinking Intensity
-• XiaomiParts: Fix Backlight Dimmer switch
-• XiaomiParts: fix Touchboost and Fastcharge Toggle always on
-• XiaomiParts: Add new Vector Icons for Dirac
-• XiaomiParts: Add SELinux Switch
-• XiaomiParts: add notification LED brightness slider
-• XiaomiParts: use % for notification LED brightness
-• XiaomiParts: Calculate expotenial LED Brightness slider values
-• XiaomiParts: Fix LED Brightness Preference not Showing Up
-• Address newerallows for Vibration Slider
-• Ignore Selinux Neverallows
-• add some Sepolicy
-• Update Spectrum and add Nodes for it
-• Enable Google Recorder for all
-• Enable Zygote Preforking
-• Update left-over CarrierConfig overlays from Tissot
-• Disable ULL mode for speakers
-• Fix error in mixer paths
-• Add support for 32/48KHz voip
-• Add path hph-lowpower-mode
+• All Changes till 28 June 2020
+• Adding XiaomiParts into the whitelist
+• Address some Sepolicy denails
+• Fix dual sim devices ( Maybe Working, Maybe Not )
+• Enable QC framework value-adds
+• Update the default network mode to T/L/G/W/1x/Evdo on both sub
 • Make WiFi Calling preference editable for Jio (India)
-• Increase in-call earpiece volume
-• Move/Add rild properties to system.prop
-• Update blobs from LA.UM.8.6.r1-04400-89xx.0
-• Drop qti-telephony-common aosp_usr_pref_sel
-• Update Graphics & Camera firmware from Daisy
-• Update GPS from LA.UM.8.6.r1-04400-89xx.0
-• Enable AOSP low_latency in audio output config
-• sepolicy: add Sepolicy for Battery Health
-• sepolicy: add Spectrum Support
-• Address some denials
-• Adresss new vibrator nodes
-• Cleanup and fix rules for Sepolicy
-• Cleanup & Update USB configuration
-• Update sepolicy for 4.9 dt
-• Fix USB config extra property
-• Update custom fingerprint service for msm-4.9
-• Disable ULL mode for speakers
-• Update some left-over CarrierConfig overlays from Tissot
-• Enable frameworks boost
-• Overlays for devices specific Intelligent Profile
-• Battery Health Overlays
-• Provide module targets for libqmiservices
-• Drop some offset properties
-• Improved Wifi Connection speed
-• Tune zram performance
-and a whole lot more stuff, optimaztions...
-
-Note:
-• Some stuff in XiaomiParts is related to Kernel Tweaks, So use them if you know what you're doing ( I'm not responsible for your mobile )
-• As 4.9 Kernel still have somethings missing, so in XiaomiParts you might face somethings not working properly.
-I tried to fix as many as i could, so if still something isn't working please be patient, don't SPAM and wait for fix from kernel side.
+• Fix display wakeup
+• Disable sys.use_fifo_ui
+• Enable fluence for audio/voice recording
+• Added EAS PowerHal
+• Setup sepolicy for libperfmgr
+• Import optimized powerhint for mido
+• Configure thermal throttle limit
+• Enable 4k on front cam
+• Update factory version to v2.1
+• Enable memory optimizations
+• Force background tasks on little cores
+• Update auto/screen brightness overlay from Daisy
+• Fix kgsl-3d0 node connecction
+• Address missing denails for EAS and other stuff
