@@ -52,14 +52,12 @@ Source Changelogs:
 
 Device Changelogs:
 =================
-• Fixed Macro & Wide lens.
-• Fixed Gcam raw10 buffer.
-• Updated to Coral June FP.
-• Added ANX Camera with lots of new features.
-• Updated ofilm chromatix libs from Lenovoved.
-• Used Artemis Kernel.
-• Improved Light hal.
-• Fixed Screen Recording.
-• Added Mi SoundFX.
-• Added Mi Sound Enhancer.
-• Updated Thermal config for hotplugging and smoother throttling.
+ • Fixed Wifi Dc Issue.
+• Fixed Offline Charging.
+• SwithchedUpdated Coral's Fingerprint To July.
+• Added MIUI Camera with lots of new features.
+• Switched to quicksilver kernel with and upstreamed source to 4.14.188
+• Updated Graphics Blobs.
+• User build
+• Limited KCAL RGB To 225 On Tianma (reduced retention)
+• Removed Lift To Check Phone,Because It Doesn't Work.
