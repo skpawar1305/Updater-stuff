@@ -52,9 +52,9 @@ Source Changelogs:
 
 Device Changelogs:
 =================
- • Fixed Wifi Dc Issue.
+• Fixed Wifi Dc Issue.
 • Fixed Offline Charging.
-• SwithchedUpdated Coral's Fingerprint To July.
+• Updated Coral's Fingerprint To July.
 • Added MIUI Camera with lots of new features.
 • Switched to quicksilver kernel with and upstreamed source to 4.14.188
 • Updated Graphics Blobs.
