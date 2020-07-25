@@ -1,63 +1,75 @@
 Device : Ginkgo
 =================
 
-Ancient Version : v3.8
+Ancient Version : v3.9
 =================
 
 Maintainer : Introdructor 
 =================
 
-Date - 26/06/2020
+Date - 25/07/2020
 =================
 
 Source Changelogs:
 =================
-• June security patch (r37).
-• Intro Weeabo Versions.
-• Intro dashboard ancient.
-• Update WallpaperZone.
-• Update Bootanimation.
-• Change Gallery2 to QPGallery.
-• Proper fix android auto.
-• Alert slider.
-• Fix systemui crash after applying non srgb img  wallpaper.
-• Fix freeform windows.
-• Add gaming mode.
-• Add sound picker for vanilla.
-• Add sensor block per packages.
-• Add pocket lock.
-• Add wakelock blocker.
-• Add alarm blocker.
-• Add headsup snooze function.
-• Add headsup timeout options.
-• Add less boring headsup options.
-• Add force expanded notification.
-• Add FP detection in pocked mode.
-• Add ability to show daily/monthly data usage.
-• Add lockscreen charging animation.
-• Add few charging animation.
-• Add lockscreen weather.
-• Add statusbar weather.
-• Add QS weather.
-• Add QS footer text.
-• Add FOD picker.
-• Add Recognizing fingerprint animation.
-• Add simple dual statusbar row from zenX.
-• Add dt2s, applock, hide and some change in launcher.
-• Add seLinux changes.
-• Add batery meter from Dot-OS.
-• Add and update Some Ancient Style themes, shape, and more fonts.
-• Add POSP Volume panel (accessible from Dashboard) thanks to POSP Team.
-• Some change and improve source.
+• July security patch (r40)
+• Removed selinux switch
+• Improve fod
+• Swipe up on keyguard to use FU
+• Fixed edit tile keep pressed while not expanded
+• Fixed double tap to check phone
+• Fixed SystemUI crash with custom volume panel
+• Change default scale animations
+• Improved gaming mode
+• Disable notification vibration
+• Improve edge lightning from ion OS
+• Update interval weather
+• Live data usage
+• Added option for selecting SBC HD codec by default
+• Added option for a2dp codec priority
+• Added fod pressed
+• Added Quick QS brightness slider
+• Added Color OS 7 FP animations
+• Added realme pressed
+• Added Ancient FOS
+• Added Pattern 4x4 - 6x6
+• Added toogle for gradient QS Background
+• Added QS Tile Styles (also add ancient tiles)
+• Added QS Clock Style
+• Added QS Analog Style
+• Added QS Themes
+• Added Settings Style
+• Added statusbar height for dual row
+• Added Settings dashboard icons
+• Added slim recents
+• Added Switch Styles
+• Added QS Label options (accent, gradient)
+• Added new QS tint
+• Added disable quick settings on LS
+• Added Quick settings pulldown
+• Added Smart Pulldown
+• Added LiveDisplay
+• Added sensor block package list
+• Added QS tint mode (random, disco)
+• Added toogle to hide lock icon on LS
+• Added Ancient Widget Clock
+• Added longpress power to toogle torch
+• Added allow VPN Tethering
+• Added Notifications ticker
+• More
 
 Device Changelogs:
 =================
-• Fixed Wifi Dc Issue.
-• Fixed Offline Charging.
-• Updated Coral's Fingerprint To July.
-• Added MIUI Camera with lots of new features.
-• Switched to quicksilver kernel with and upstreamed source to 4.14.188
-• Updated Graphics Blobs.
-• User build
-• Limited KCAL RGB To 225 On Tianma (reduced retention)
-• Removed Lift To Check Phone,Because It Doesn't Work.
+• Switched to QTI BT .
+• Updated blobs from MIUI 20.7.3 .
+• Updated GPS HAL From LA.UM.8.11.r1-03800-NICOBAR.0 .
+• Updated kernel to Quicksilver .188 .
+• Updated WireGuard to v1.0.20200712 .
+• Fixed FM Radio .
+• Fixed model name in EXIF data .
+• Added support for willow devices with 19.39.0 hwversion (now you can use latest mauronofrio's TWRP 3.4.0-1) .
+• Added Xiaomi Parts
+• Added Back Mi Sound Enhancer .
+• Added SafailNet
+• Fixed Wifi Display Green Screen Issue .
+• Added clear speaker feature from MIUI .
