@@ -1,63 +1,98 @@
-AncientOS v3.8
+AncientOS v3.9
 
 Source Changelogs:
 • July security patch (r40)
-• Intro Weebo Versions
-• Intro dashboard ancient
-• Update WallpaperZone
-• Update Bootanimation Thanks to @R4J47
-• Change Gallery2 to QPGallery. Thanks to @WSTxda
-• Proper fix android auto
-• Alert slider
-• Fix systemui crash after applying non srgb img wallpaper
-• Fix freeform windows 
-• Add gaming mode
-• Add sound picker for vanilla
-• Add sensor block per packages
-• Add pocket lock
-• Add wakelock blocker
-• Add alarm blocker
-• Add headsup snooze function
-• Add headsup timeout options
-• Add less boring headsup options
-• Add force expanded notification
-• Add FP detection in pocked mode
-• Add ability to show daily/monthly data usage
-• Add lockscreen charging animation
-• Add few charging animation
-• Add lockscreen weather
-• Add statusbar weather
-• Add QS weather
-• Add QS footer text
-• Add FOD picker
-• Add Recognizing fingerprint animation
-• Add simple dual statusbar row from zenX
-• Add dt2s, applock, hide and some change in launcher
-• Add seLinux changes
-• Add batery meter from Dot-OS
-• Add and update Some Ancient Style themes, shape, and more fonts
-• Add POSP Volume panel (accessible from Dashboard) thanks to POSP Team
-• Some change and improve source
+• Removed selinux switch
+• Improve fod
+• Swipe up on keyguard to use FU
+• Fixed edit tile keep pressed while not expanded
+• Fixed double tap to check phone
+• Fixed SystemUI crash with custom volume panel
+• Change default scale animations
+• Improved gaming mode
+• Disable notification vibration
+• Improve edge lightning from ion OS
+• Update interval weather
+• Live data usage
+• Added option for selecting SBC HD codec by default
+• Added option for a2dp codec priority
+• Added fod pressed
+• Added Quick QS brightness slider
+• Added Color OS 7 FP animations
+• Added realme pressed
+• Added Ancient FOS
+• Added Pattern 4x4 - 6x6
+• Added toogle for gradient QS Background
+• Added QS Tile Styles (also add ancient tiles)
+• Added QS Clock Style
+• Added QS Analog Style
+• Added QS Themes
+• Added Settings Style
+• Added statusbar height for dual row
+• Added Settings dashboard icons
+• Added slim recents
+• Added Switch Styles
+• Added QS Label options (accent, gradient)
+• Added new QS tint
+• Added disable quick settings on LS
+• Added Quick settings pulldown
+• Added Smart Pulldown
+• Added LiveDisplay
+• Added sensor block package list
+• Added QS tint mode (random, disco)
+• Added toogle to hide lock icon on LS
+• Added Ancient Widget Clock
+• Added longpress power to toogle torch
+• Added allow VPN Tethering
+• Added Notifications ticker
+• More
+
 
 Device Changelogs:
-• All Changes till 28 June 2020
-• Adding XiaomiParts into the whitelist
-• Address some Sepolicy denails
-• Fix dual sim devices ( Maybe Working, Maybe Not )
-• Enable QC framework value-adds
-• Update the default network mode to T/L/G/W/1x/Evdo on both sub
-• Make WiFi Calling preference editable for Jio (India)
-• Fix display wakeup
-• Disable sys.use_fifo_ui
-• Enable fluence for audio/voice recording
-• Added EAS PowerHal
-• Setup sepolicy for libperfmgr
-• Import optimized powerhint for mido
-• Configure thermal throttle limit
-• Enable 4k on front cam
-• Update factory version to v2.1
-• Enable memory optimizations
-• Force background tasks on little cores
+• Update Display, Media and Audio hals from LA.UM.8.6.2.r1-07800-89xx.0
+• XiaomiParts: Nuke all non working stuff ( TCP Congestion, LKM Profiles, Charging LED, Camera Flash Yellow )
+• Update Graphics blobs OpenGL-V@474.0
+• Checkout init.qcom.post_boot.sh to LA.UM.8.6.2.r1-07800-89xx.0
+• Compiled with latest Proton Clang 12
+• Update Vulkan 1.1.128 drivers
+• XiaomiParts: Fix Vibration Strength node
+• Enable Vibration & Haptic strength
+• Update qti-telephony-manager from Vsmart Casuari
+• Disable vendor mismatch warning
+• Updated GCam Go to v2
+• Set thermal profile on boot
+• Make WiFi channel selection range wider
+• Compile HWUI for Better Performance
+• Place a copy of updated libprocessgroup.so
+• Bring back LiveDisplay
+• Battery Health Overlays
+• Add Call Recording overlay ( For Vanilla Version only )
+• Open /sdcard instead of Downloads by default
+• Add Custom Doze Support
+• Hide unsupported color effects entry of Snap
+• Restart preview for additional camera onPictureTaken
 • Update auto/screen brightness overlay from Daisy
-• Fix kgsl-3d0 node connecction
-• Address missing denails for EAS and other stuff
+• Enable Wired/BT headset focus mode
+• Revert "mido: props: Enable zygote preforking"
+• Use opensource btconfigstore
+• Remove KPI marker at ADSP start
+• Remove more deprecated display flags
+• Remove left-over c2 codecs reference
+• Update qcom-sh service user permission
+• Drop display calibration
+• Increase max bss count
+• Disable BSS flush
+• Enable Fast BSS Transition
+• Increase maximum number of BSS in memory
+• Enable IWLAN overlays
+• Enable IMS feature flags for supported carriers
+• Revert "mido: Enable GL comp backpressure"
+• XiaomiParts: Fixed Settings restore on boot
+• Disable vsync for cpu rendered apps
+• Misc. audio i/o improvements
+• Fixed & Updated many sepolicy denials issues
+• Update and resolve additional denials ( Adjust for 4.9 )
+• Many under the hood improvements
+
+Note:
+- Some features of XiaomiParts are removed because those weren't working, I'll add them back if i find a fix for it...
