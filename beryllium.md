@@ -1,10 +1,13 @@
-# AncientOS - V3.8
+# AncientOS - V3.9
 
-primeval-vanilla
-20200704-0914
+Primeval-vanilla
+20200727-2226
 Device Changelog :
-- Updated egl & vulkan driver
-- Updated vendor common blobs from V11.0.5.0.QDGMIXM global stable (polaris)
-- switch to OptimusDrunk Kernel latest
-- Updated device fingerprint to coral June
-- fix navbar gesture missing
+- Updated vendor blobs from V11.0.9.0
+- Use QTI BT Stack & Power HAL
+- Sepolicy fixes
+- Kernel update Optimus Drunk v10.26
+- Updated device fingerprint to coral July
+- Enabled Livedisplay
+- Enabled FaceUnlock
+
