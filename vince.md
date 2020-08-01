@@ -7,7 +7,7 @@ Ancient Version : v3.9
 Maintainer : Srinand.E.K 
 =================
 
-Date - 26/07/2020
+Date - 01/08/2020
 =================
 
 Source Changelogs:
@@ -60,4 +60,8 @@ Source Changelogs:
 
 Device Changelogs:
 =================
-• Initial Build
+• Added Xiaomi Parts
+• Added Face Unlock
+• Kernel Upstream 
+• Add Dirac
+• Under The Hood Improvements
