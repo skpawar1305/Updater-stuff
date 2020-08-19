@@ -1,7 +1,7 @@
 AncientOS 3.9 | Primeval | Koshiki | July 25, 2020
 
-Source CL :
-• July security patch (r40)
+Source Changelogs:
+• August security patch (r41)
 • Removed selinux switch
 • Improve fod
 • Swipe up on keyguard to use FU
@@ -47,12 +47,12 @@ Source CL :
 • Added Notifications ticker
 • More
 
-Device Changelogs:
-• Initial Official Build
-• Add face unlock
-• Add OTA
-• Build without gapps
-• kernel Upstream
-• Add Star Wars Popup Sounds
-• August Sec Patch
-• Many more improvements
+Device CL
+
+Add libpfrmgr(More smooth with arian's Kernel)
+Increase Volume
+Upstream Kernel 
+Upstream Vendor
+Source Changelogs
+Add Screen off fod(Source Side)
+Add Realme Fod Animations
