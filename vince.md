@@ -1,7 +1,7 @@
 AncientOS 3.9 | Primeval | Koshiki | July 25, 2020
 
 Source CL :
-• July security patch (r40)
+• August security patch 
 • Removed selinux switch
 • Improve fod
 • Swipe up on keyguard to use FU
@@ -48,23 +48,6 @@ Source CL :
 • More
 
 Device Changelogs:
-• Ported Pixel power HAL to Vince
-• Initial powerhint for Vince
-• Updated perf stack from Taimen and Sailfish
-• Fixed WebView/Chrome freezes
-• Fixed rare case where mic stops working
-• Fixed audio distortion in calls 
-• Improved unlock speeds 
-• Improved zRAM performance
-• Improved WiFi power consumption when idle
-• Improved boot/shutdown speeds
-• Optimized init scripts for EAS
-• Major init scripts cleanup and fixes
-• Switched to legacy encoder for screen recordings
-• Address Denials
-• Improve Scrolling Responsiveness
-• Add LiveDisplay
-• Update data-ipa-cfg-mgr from LA.UM.8.6.2.r1-07800-89xx.0
-• Update init.qcom.early_boot.sh from LA.UM.8.6.2.r1-08100-89xx.0
-• Upstreamed Dark Ages kernel to 4.9.233
-• Under the Hood Optimisations...
+• Fixed Hotspot Issue
+• Upstreamed Dark Ages kernel to 4.9.234
+• Add OTA Support
