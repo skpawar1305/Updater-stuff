@@ -48,26 +48,23 @@ Source CL :
 • More
 
 Device Changelogs:
-• Remove ringtone focus mode
-• Add framework detect modules to PRODUCT_PACKAGES
-• Update configfs from lineage tree
-• Address rild denial
-• Import usb related configs
-• Update Coral August Fingerprint
-• Add aptx blobs from coral
-• Update Perf hal Support
-• Update blobs OpenGL-V@474.0
-• Update blobs vulkan 1.1.128_treble
-• Set properties for updated Vulkan driver
-• Enable QS System info
-• Improve overall usability
-• Update vendor security patch
-• Address thermal-engine denials
-• Disable fluence
-• Initial tuning for EAS
-• Enable cpuidle during boot
-• Fix audio recording distortion
-• Update BCL paths
-• Shorten wait time to optimize shutdown time
-• Enable Smart Charging
-• Under The Hood Optimizations...
+• Ported Pixel power HAL to Vince
+• Initial powerhint for Vince
+• Updated perf stack from Taimen and Sailfish
+• Fixed WebView/Chrome freezes
+• Fixed rare case where mic stops working
+• Fixed audio distortion in calls 
+• Improved unlock speeds 
+• Improved zRAM performance
+• Improved WiFi power consumption when idle
+• Improved boot/shutdown speeds
+• Optimized init scripts for EAS
+• Major init scripts cleanup and fixes
+• Switched to legacy encoder for screen recordings
+• Address Denials
+• Improve Scrolling Responsiveness
+• Add LiveDisplay
+• Update data-ipa-cfg-mgr from LA.UM.8.6.2.r1-07800-89xx.0
+• Update init.qcom.early_boot.sh from LA.UM.8.6.2.r1-08100-89xx.0
+• Upstreamed Dark Ages kernel to 4.9.233
+• Under the Hood Optimisations...
