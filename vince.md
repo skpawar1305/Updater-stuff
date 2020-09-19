@@ -1,7 +1,7 @@
-AncientOS 3.9 | Primeval | Koshiki | July 25, 2020
+AncientOS 3.9 | Primeval | Koshiki | September 19, 2020
 
 Source CL :
-• August security patch 
+• September security patch 
 • Removed selinux switch
 • Improve fod
 • Swipe up on keyguard to use FU
@@ -48,6 +48,26 @@ Source CL :
 • More
 
 Device Changelogs:
-• Fixed Hotspot Issue
-• Upstreamed Dark Ages kernel to 4.9.234
-• Add OTA Support
+• Fixed call quality issues
+• Fixed cast (WiFi Display)
+• Fixed earpiece volume slider
+• Fixed GPS related issues
+• Fixed mic distortion issues
+• Fixed random reboots due to WiFi
+• Fixed sensors not working for some users
+• Fixed signal delay after boot
+• Fixed screen recorder lag
+• Updated display and media HALs from LA.UM.8.6.2.r1-08400-89xx.0
+• Updated Graphics, Media, Postprocessing, Perf and SDM from LA.UM.8.6.2.r1-08400-89xx.0
+• Imported ESE-Powermanager, IO Prefetcher, Latency, SCVE and Soter from LA.UM.8.6.2.r1-08400-89xx.0
+• Imported new thermal engine
+• Improved WiFi connection stability
+• Switched to CAF surfaceflinger
+• Switched back to QTI Power HAL
+• Updated init scripts, power profile and misc. configs
+• Xiaomi Parts is more stable now.(3.0)
+• Address Many Denials
+• Update coral fp to september patch
+• Tune Zram performance
+• Some performance improvements
+• Under the hood optimizations
